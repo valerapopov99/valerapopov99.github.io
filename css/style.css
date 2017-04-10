@@ -5,6 +5,7 @@
 }
 img{
   height:130px;
+  margin-bottom:50px;
 }
 .zag {
   color:#6c7090;
@@ -21,7 +22,4 @@ img{
 }
 .row {
   margin-bottom:140px;
-}
-.gltext{
-  margin-top:50px;
 }
